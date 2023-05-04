@@ -8,7 +8,7 @@ root.title("Currency Converter")
 Tops = Frame(root, bg = '#e6e5e5', pady=2, width=1850, height=100, relief="ridge")
 Tops.grid(row=0, column=0)
  
-headlabel = tk.Label(Tops, font=('lato black', 19, 'bold'), text='Currency converter :GeeksForGeeks ',
+headlabel = tk.Label(Tops, font=('lato black', 19, 'bold'), text='.......teChies CURRENCY CONVERTER.......',
                     bg='#e6e5e5', fg='black')
 headlabel.grid(row=1, column=0, sticky=W)
  
